@@ -60,7 +60,7 @@ export const weddingData = {
       id: "resepsi",
       title: "Resepsi",
       date: "Jumat, 13 November 2026",
-      time: "10.00 - Selesai WIB",
+      time: "08.00 - Selesai WIB",
       venue: "Kediaman Mempelai Pria",
       address: "Kp. Ciherang Pondok RT. 04/01 Kec. Caringin Kab, Bogor",
       mapsUrl: "https://maps.app.goo.gl/yDHvEgammSWPVrf38"
